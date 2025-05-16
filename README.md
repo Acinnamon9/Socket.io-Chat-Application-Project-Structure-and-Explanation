@@ -3,7 +3,7 @@
 This project is a real-time chat application built using **Socket.IO**, *React*, Node.js, and Express. Users can join chat rooms and send messages to each other instantly. The application handles user management, routing, and displays messages in a user-friendly interface.
 
 
-**Source Repository:** [None](None)
+**Source Repository:** [sujoyduttajad/Socket.io-Chat-Application](https://github.com/sujoyduttajad/Socket.io-Chat-Application.git)
 
 ```mermaid
 flowchart TD
